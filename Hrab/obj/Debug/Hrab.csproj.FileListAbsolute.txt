@@ -1,0 +1,7 @@
+D:\UnicornCollege\CS\ALG2\Hrab\bin\Debug\Hrab.exe.config
+D:\UnicornCollege\CS\ALG2\Hrab\bin\Debug\Hrab.exe
+D:\UnicornCollege\CS\ALG2\Hrab\bin\Debug\Hrab.pdb
+D:\UnicornCollege\CS\ALG2\Hrab\obj\Debug\Hrab.csprojResolveAssemblyReference.cache
+D:\UnicornCollege\CS\ALG2\Hrab\obj\Debug\Hrab.csproj.CoreCompileInputs.cache
+D:\UnicornCollege\CS\ALG2\Hrab\obj\Debug\Hrab.exe
+D:\UnicornCollege\CS\ALG2\Hrab\obj\Debug\Hrab.pdb
